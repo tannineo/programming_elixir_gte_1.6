@@ -10,7 +10,16 @@ notes and code, sometimes with Chinese comments.
 
 `(?)` means I am not certain about the contents while reading.
 
+答案有误, 而且部分输出已经和先存版本不同了. 一部分命令deprecated.
+
 ## Environment Settings
+
+```text
+~ elixir -v
+Erlang/OTP 23 [erts-11.0.2] [source] [64-bit] [smp:16:16] [ds:16:16:10] [async-threads:1] [hipe] [dtrace]
+
+Elixir 1.10.3 (compiled with Erlang/OTP 22)
+```
 
 TODO
 
